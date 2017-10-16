@@ -27,6 +27,7 @@ const handlers = {
         var month = now.month() + 1;
         var year = now.year();
         var date = day + "/" + month + "/" + year;
+        //date = "12/10/2017"; //There were tendies on this day
 
         // Use array of promises, one for each hall
         var promises = [];
