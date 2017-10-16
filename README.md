@@ -1,7 +1,7 @@
 # Tufts Dining (Tufts Tendies)
 Ever wanted an easy way to check if Carm or Dewick are serving Tendies? Have an Amazon Alexa? Use the Tufts Dining skill! https://www.amazon.com/dp/B076FS74KJ/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1508127652&sr=1-1 
 
-*Not affiliated with Tufts Dining Services in any way but hey maybe hmu?
+*Not affiliated with Tufts Dining Services in any way but hey maybe hmu?*
 
 # Usage
 "Ask Tufts Dining are there tendies"
