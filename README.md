@@ -13,3 +13,6 @@ Knowing nothing of building API's I used the one that Derick Yang built! It's re
 2. Check next week for tendies
 3. Ability to check for other food items?
 4. Other stuff? Suggestions?
+
+# License
+MIT License, feel free to use/modify, please credit me though somewhere. that'd be nice.
